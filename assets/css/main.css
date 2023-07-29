@@ -3,6 +3,7 @@
 
 .me-image{
 	max-height:min-content;
+	overflow-y: hidden;
 }
 
 /*
