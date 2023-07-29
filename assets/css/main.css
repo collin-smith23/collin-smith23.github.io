@@ -1,7 +1,9 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300i,400i");
 
-
+.me-image{
+	max-height: 80%;
+}
 
 /*
 	Ethereal by HTML5 UP
